@@ -1,6 +1,6 @@
-class Cli < Formula
+class ProjectPlanton < Formula
   version "v0.0.18"
-  desc "ProjectPlanton: OpenSourceMulti-Cloud Deployment Framework"
+  desc "ProjectPlanton: OpenSource Multi-Cloud Deployment Framework"
   homepage "https://project-planton.org"
   os_arch = `arch`
   arch = (os_arch.include? "arm64")? "arm64" : "amd64"
