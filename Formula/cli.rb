@@ -1,5 +1,5 @@
 class Cli < Formula
-  version "v0.0.14"
+  version "v0.0.18"
   desc "ProjectPlanton: OpenSourceMulti-Cloud Deployment Framework"
   homepage "https://project-planton.org"
   os_arch = `arch`
