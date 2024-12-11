@@ -1,5 +1,5 @@
 class ProjectPlanton < Formula
-  version "v0.0.19"
+  version "v0.0.34"
   desc "ProjectPlanton: OpenSource Multi-Cloud Deployment Framework"
   homepage "https://project-planton.org"
   os_arch = `arch`
